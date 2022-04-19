@@ -1,0 +1,44 @@
+[
+    {
+    "name":"alphonso mango",
+    "desc":"great Quality of Mango",
+    "store": "Manzah",
+    "day": "Monday"
+},
+{
+    "name":"Apples",
+    "desc":"great Quality of Apple",
+    "store": "Manzah",
+    "day": "Monday"
+},
+{
+    "name":"Kesar Mango",
+    "desc":"great Quality of Mango",
+    "store": "Manzah",
+    "day": "Monday"
+},
+{
+    "name":"Langra Mango",
+    "desc":"great Quality of Mango",
+    "store": "Manzah",
+    "day": "Monday"
+},
+{
+    "name":"Broccoli",
+    "desc":"great Quality of Fresh Vegetable",
+    "store": "Manzah",
+    "day": "Monday"
+},
+{
+    "name":"Cauliflower",
+    "desc":"great Quality of Fresh Vegetable",
+    "store": "Tunis",
+    "day": "Monday"
+},
+{
+    "name":"Olive Oil",
+    "desc":"great Quality of Oil",
+    "store": "Tunis",
+    "day": "Tuestday"
+}
+]
